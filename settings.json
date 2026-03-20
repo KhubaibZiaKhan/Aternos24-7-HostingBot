@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "KhanLand-fyro.aternos.m",
-    "port": :32219,
+    "port":32219,
     "version": "",
     "try-creative": false
   },
